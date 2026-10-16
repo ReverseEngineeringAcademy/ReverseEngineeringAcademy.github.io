@@ -31,10 +31,10 @@ flowchart LR
     style TOP fill:transparent,stroke:transparent
     style BOTTOM fill:transparent,stroke:transparent
 
-    style A fill:#00A4EF,stroke:#00A4EF,stroke-width:4px
-    style B fill:#00A4EF,stroke:#00A4EF,stroke-width:4px
-    style C fill:#0078D4,stroke:#0078D4,stroke-width:4px
-    style D fill:#0078D4,stroke:#0078D4,stroke-width:4px
+    style A fill:#00A4EF,stroke:#00A4EF,stroke-width:1px
+    style B fill:#00A4EF,stroke:#00A4EF,stroke-width:1px
+    style C fill:#0078D4,stroke:#0078D4,stroke-width:1px
+    style D fill:#0078D4,stroke:#0078D4,stroke-width:1px
 
     style TITLE fill:transparent,stroke:transparent,color:#0078D4,font-size:22px,font-weight:bold
 ```
