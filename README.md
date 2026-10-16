@@ -10,7 +10,7 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    T["LINUX REVERSE<br/>ENGINEERING"]
+    T["Linux REVERSE<br/>ENGINEERING"]
     style T fill:transparent,stroke:transparent,color:#DC2626,font-size:24px,font-weight:bold
 ```
 
@@ -18,7 +18,7 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    T["WINDOWS REVERSE<br/>ENGINEERING"]
+    T["Windows REVERSE<br/>ENGINEERING"]
     style T fill:transparent,stroke:transparent,color:#0078D4,font-size:24px,font-weight:bold
 ```
 
